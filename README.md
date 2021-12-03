@@ -2,7 +2,8 @@
 Tor Brower Node IP
 주소 : https://check.torproject.org/exit-addresses
 
-#IP List Sort
+# IP List Sort
+
 176.10.99.200
 109.70.100.28
 51.75.64.23
